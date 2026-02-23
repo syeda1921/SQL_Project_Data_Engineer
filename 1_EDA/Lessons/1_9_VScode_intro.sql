@@ -1,1 +1,3 @@
-Select 42 as answer;
+Select Distinct
+job_country
+from job_postings_fact;
